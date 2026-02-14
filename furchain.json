@@ -1,0 +1,16 @@
+{
+  "$schema": "https://furchainlabs.github.io/protocol/v1/furchain.schema.json",
+  "version": 1,
+  "id": "019c5ab6-1002-709d-97e1-46e2c389f22c",
+  "owner": "CaspianTheFox",
+  "defaultBranch": "main",
+  "keys": "keys/keys.json",
+  "characters": [
+    {
+      "id": "019c5ab6-1002-709d-97e1-4bf9a23249ee",
+      "name": "caspian",
+      "display": "Caspian the Fox",
+      "path": "characters/caspian"
+    }
+  ]
+}

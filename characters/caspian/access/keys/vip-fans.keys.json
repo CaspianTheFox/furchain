@@ -1,0 +1,25 @@
+{
+  "groupRef": "vip-fans",
+  "versions": [
+    {
+      "keyVersion": 2,
+      "status": "current",
+      "keys": {
+        "sha256:e37f40370e617224eb1a96c1470864d96befd8238d163cc8faeef6d99be1e31f": "0KfTaWcOBKFzabIc7Btz89cyhxGldcNsPNzVH9wCxy7ZeTJIgOeehjHJeh2kmirm1AKmBFC2ZsNMlCZWf1hQZ5d4CuB0FcfDrpf-zVMUZsI"
+      }
+    },
+    {
+      "keyVersion": 1,
+      "status": "deprecated",
+      "keys": {
+        "sha256:e37f40370e617224eb1a96c1470864d96befd8238d163cc8faeef6d99be1e31f": "_PVyDd2DyR1Hqf3z6l9-HncmsEcZIRhZaFiqfF26FVfGubSlrTLRbBscVz5kDrtml53IWLmuMpIw9L_MjVy7HwyOgqaxNuv2yzppKAoGzmk"
+      }
+    }
+  ],
+  "signature": {
+    "alg": "Ed25519",
+    "kid": "sig-2026-02",
+    "created": "2026-02-14T06:01:23.715Z",
+    "sig": "-GXZtpRqHms6PD4F8TRMjIqyfabC8nuhyLInMI2ioL1YQgYnXTgfZ198QDS9p-7rUYQ_8iwSUPJKtgqcYDV5BQ"
+  }
+}

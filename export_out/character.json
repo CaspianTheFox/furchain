@@ -1,0 +1,18 @@
+{
+  "$schema": "https://furchainlabs.github.io/protocol/v1/character.schema.json",
+  "protocolVersion": 1,
+  "id": "019c5ab6-1002-709d-97e1-4bf9a23249ee",
+  "name": "caspian",
+  "display": "Caspian the Fox",
+  "revision": 1,
+  "contentRating": {
+    "primary": "safe"
+  },
+  "relations": [],
+  "signature": {
+    "alg": "Ed25519",
+    "kid": "sig-2026-02",
+    "created": "2026-02-14T06:01:34.861Z",
+    "sig": "PNmsZIT-FKIn_eASzDOsEnvz2Dl7CCUkX4u8_1BaWX6pGLW-_gcfM7Aa5pVQUinzUmLjb92fjUyEgvzlr_HeCQ"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "$schema": "https://furchainlabs.github.io/protocol/v1/publication.schema.json",
+  "id": "019c5ab8-6164-7790-aeef-e4294df48bec",
+  "character": "@019c5ab6-1002-709d-97e1-4bf9a23249ee",
+  "type": "art",
+  "rating": "safe",
+  "scopes": [
+    "public"
+  ],
+  "created": "2026-02-14T05:55:58.948Z",
+  "body": {
+    "title": "Fox Portrait",
+    "tags": [],
+    "content": {
+      "body": "A beautiful fox portrait"
+    }
+  },
+  "signature": {
+    "alg": "Ed25519",
+    "kid": "sig-2026-02",
+    "created": "2026-02-14T05:55:58.949Z",
+    "sig": "T64Y_9YsulCBDp9kjwZtOizlFQ5jT7923OeDSohb2keX0K475DVlTiUf0yTIEHoVbTV3gWxjRtY2FNZssMcyBw"
+  }
+}

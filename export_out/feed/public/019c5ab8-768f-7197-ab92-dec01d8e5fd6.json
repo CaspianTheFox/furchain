@@ -1,0 +1,24 @@
+{
+  "$schema": "https://furchainlabs.github.io/protocol/v1/publication.schema.json",
+  "id": "019c5ab8-768f-7197-ab92-dec01d8e5fd6",
+  "character": "@019c5ab6-1002-709d-97e1-4bf9a23249ee",
+  "type": "story",
+  "rating": "safe",
+  "scopes": [
+    "public"
+  ],
+  "created": "2026-02-14T05:56:04.367Z",
+  "body": {
+    "title": "The Fox's Journey",
+    "tags": [],
+    "content": {
+      "body": "Once upon a time, a clever fox set out..."
+    }
+  },
+  "signature": {
+    "alg": "Ed25519",
+    "kid": "sig-2026-02",
+    "created": "2026-02-14T05:56:04.368Z",
+    "sig": "l5mhozZpVPz5eJR-VVRIC-X8L33qE-J_Gq-Z0r0CwSqFTNurDoF7Z7JC9GIBOviv9kXyeYruRgtrzE99ORWaCw"
+  }
+}

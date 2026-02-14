@@ -1,0 +1,24 @@
+{
+  "$schema": "https://furchainlabs.github.io/protocol/v1/publication.schema.json",
+  "id": "019c5ab8-8b67-77cd-82b9-0b5d3d03e2d8",
+  "character": "@019c5ab6-1002-709d-97e1-4bf9a23249ee",
+  "type": "tool",
+  "rating": "safe",
+  "scopes": [
+    "public"
+  ],
+  "created": "2026-02-14T05:56:09.703Z",
+  "body": {
+    "title": "Fur Shader",
+    "tags": [],
+    "content": {
+      "body": "A tool for fur rendering"
+    }
+  },
+  "signature": {
+    "alg": "Ed25519",
+    "kid": "sig-2026-02",
+    "created": "2026-02-14T05:56:09.704Z",
+    "sig": "mn3v6hPdvFtrI4ycS3pGx9XRM2XZ63GXzfifFn7eIgtyqMyOu-3xBg8FxefTVBc-B7tutM554cltnC4JA2JHCw"
+  }
+}

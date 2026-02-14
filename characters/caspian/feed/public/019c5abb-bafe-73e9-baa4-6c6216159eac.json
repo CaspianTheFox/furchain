@@ -1,0 +1,29 @@
+{
+  "$schema": "https://furchainlabs.github.io/protocol/v1/publication.schema.json",
+  "id": "019c5abb-bafe-73e9-baa4-6c6216159eac",
+  "character": "@019c5ab6-1002-709d-97e1-4bf9a23249ee",
+  "type": "reply",
+  "rating": "safe",
+  "scopes": [
+    "public"
+  ],
+  "created": "2026-02-14T05:59:38.494Z",
+  "body": {
+    "title": "Self-reply",
+    "tags": [],
+    "content": {
+      "body": "Replying to myself"
+    }
+  },
+  "inReplyTo": {
+    "character": "@019c5ab6-1002-709d-97e1-4bf9a23249ee",
+    "publication": "019c5ab8-8b67-77cd-82b9-0b5d3d03e2d8",
+    "verified": false
+  },
+  "signature": {
+    "alg": "Ed25519",
+    "kid": "sig-2026-02",
+    "created": "2026-02-14T05:59:38.499Z",
+    "sig": "BK-O0MIw9_myC2Rltt1xv7oZV6QIRnOqLbzOqt50VMeikXAEmD7PrmgYLE2otgerSewcs_Q3qf4bDS9Z8W1QDA"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "$schema": "https://furchainlabs.github.io/protocol/v1/publication.schema.json",
+  "id": "019c5ab8-4a83-73e0-95ae-8580e1e72944",
+  "character": "@019c5ab6-1002-709d-97e1-4bf9a23249ee",
+  "type": "post",
+  "rating": "safe",
+  "scopes": [
+    "public"
+  ],
+  "created": "2026-02-14T05:55:53.091Z",
+  "body": {
+    "title": "Hello World",
+    "tags": [],
+    "content": {
+      "body": "First post from Caspian!"
+    }
+  },
+  "signature": {
+    "alg": "Ed25519",
+    "kid": "sig-2026-02",
+    "created": "2026-02-14T05:55:53.092Z",
+    "sig": "HzHR0EmrcxzZG2dXlxu8zG71iUoV9NoFIF9YcybCli5UFY_odq9Gtve_3AdpMNIAlv_hDgnEY-WLHXj62hZGDw"
+  }
+}

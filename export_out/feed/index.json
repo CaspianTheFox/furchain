@@ -1,0 +1,124 @@
+{
+  "character": "@019c5ab6-1002-709d-97e1-4bf9a23249ee",
+  "count": 5,
+  "latest": "2026-02-14T05:59:38.494Z",
+  "pageSize": 100,
+  "archives": [],
+  "publications": [
+    {
+      "id": "019c5abb-bafe-73e9-baa4-6c6216159eac",
+      "type": "reply",
+      "rating": "safe",
+      "scopes": [
+        "public"
+      ],
+      "created": "2026-02-14T05:59:38.494Z",
+      "body": {
+        "title": "Self-reply",
+        "tags": [],
+        "content": {
+          "body": "Replying to myself"
+        }
+      },
+      "inReplyTo": {
+        "character": "@019c5ab6-1002-709d-97e1-4bf9a23249ee",
+        "publication": "019c5ab8-8b67-77cd-82b9-0b5d3d03e2d8",
+        "verified": false
+      },
+      "signature": {
+        "alg": "Ed25519",
+        "kid": "sig-2026-02",
+        "created": "2026-02-14T05:59:38.499Z",
+        "sig": "BK-O0MIw9_myC2Rltt1xv7oZV6QIRnOqLbzOqt50VMeikXAEmD7PrmgYLE2otgerSewcs_Q3qf4bDS9Z8W1QDA"
+      }
+    },
+    {
+      "id": "019c5ab8-8b67-77cd-82b9-0b5d3d03e2d8",
+      "type": "tool",
+      "rating": "safe",
+      "scopes": [
+        "public"
+      ],
+      "created": "2026-02-14T05:56:09.703Z",
+      "body": {
+        "title": "Fur Shader",
+        "tags": [],
+        "content": {
+          "body": "A tool for fur rendering"
+        }
+      },
+      "signature": {
+        "alg": "Ed25519",
+        "kid": "sig-2026-02",
+        "created": "2026-02-14T05:56:09.704Z",
+        "sig": "mn3v6hPdvFtrI4ycS3pGx9XRM2XZ63GXzfifFn7eIgtyqMyOu-3xBg8FxefTVBc-B7tutM554cltnC4JA2JHCw"
+      }
+    },
+    {
+      "id": "019c5ab8-768f-7197-ab92-dec01d8e5fd6",
+      "type": "story",
+      "rating": "safe",
+      "scopes": [
+        "public"
+      ],
+      "created": "2026-02-14T05:56:04.367Z",
+      "body": {
+        "title": "The Fox's Journey",
+        "tags": [],
+        "content": {
+          "body": "Once upon a time, a clever fox set out..."
+        }
+      },
+      "signature": {
+        "alg": "Ed25519",
+        "kid": "sig-2026-02",
+        "created": "2026-02-14T05:56:04.368Z",
+        "sig": "l5mhozZpVPz5eJR-VVRIC-X8L33qE-J_Gq-Z0r0CwSqFTNurDoF7Z7JC9GIBOviv9kXyeYruRgtrzE99ORWaCw"
+      }
+    },
+    {
+      "id": "019c5ab8-6164-7790-aeef-e4294df48bec",
+      "type": "art",
+      "rating": "safe",
+      "scopes": [
+        "public"
+      ],
+      "created": "2026-02-14T05:55:58.948Z",
+      "body": {
+        "title": "Fox Portrait",
+        "tags": [],
+        "content": {
+          "body": "A beautiful fox portrait"
+        }
+      },
+      "signature": {
+        "alg": "Ed25519",
+        "kid": "sig-2026-02",
+        "created": "2026-02-14T05:55:58.949Z",
+        "sig": "T64Y_9YsulCBDp9kjwZtOizlFQ5jT7923OeDSohb2keX0K475DVlTiUf0yTIEHoVbTV3gWxjRtY2FNZssMcyBw"
+      }
+    },
+    {
+      "id": "019c5ab8-4a83-73e0-95ae-8580e1e72944",
+      "type": "post",
+      "rating": "safe",
+      "scopes": [
+        "public"
+      ],
+      "created": "2026-02-14T05:55:53.091Z",
+      "body": {
+        "title": "Hello World",
+        "tags": [],
+        "content": {
+          "body": "First post from Caspian!"
+        }
+      },
+      "signature": {
+        "alg": "Ed25519",
+        "kid": "sig-2026-02",
+        "created": "2026-02-14T05:55:53.092Z",
+        "sig": "HzHR0EmrcxzZG2dXlxu8zG71iUoV9NoFIF9YcybCli5UFY_odq9Gtve_3AdpMNIAlv_hDgnEY-WLHXj62hZGDw"
+      }
+    }
+  ]
+}

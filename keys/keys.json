@@ -1,0 +1,68 @@
+{
+  "$schema": "https://furchainlabs.github.io/protocol/v1/keys.schema.json",
+  "version": 1,
+  "current": {
+    "sigKid": "sig-2026-02-3",
+    "encKid": "enc-2026-02-3"
+  },
+  "keys": [
+    {
+      "kid": "sig-2026-02",
+      "use": "sig",
+      "alg": "Ed25519",
+      "publicKey": "nLwcGhZdsViAOUkVXLvu7xSS7xm4byDYzDtJnP0jF4s",
+      "fingerprint": "sha256:f72cd7cd7ef2c63b65bfeec765919dd333279c2288e86b76bb6ec495259803d6",
+      "status": "revoked",
+      "created": "2026-02-14T05:55:13.467Z",
+      "revoked": "2026-02-14T06:02:27.519Z"
+    },
+    {
+      "kid": "enc-2026-02",
+      "use": "enc",
+      "alg": "X25519",
+      "publicKey": "tDnDrm-D_N7JcsVIVc2SXLzc3JP28chC2_uBx1vvQUc",
+      "fingerprint": "sha256:aa8525d71b4445ec74647e7f5f0038536e8a632efc77815384ee3f3c06f58514",
+      "status": "revoked",
+      "created": "2026-02-14T05:55:13.467Z",
+      "revoked": "2026-02-14T06:02:27.519Z"
+    },
+    {
+      "kid": "sig-2026-02-2",
+      "use": "sig",
+      "alg": "Ed25519",
+      "publicKey": "dlZLO6uxOaivo7mTA5mBDxxUA60wG2wHpCl2Cttkgds",
+      "fingerprint": "sha256:d0615b222d370bdeb0d6c8a6822d9c592611f457b69535922d642c865216514a",
+      "status": "revoked",
+      "created": "2026-02-14T06:02:27.529Z",
+      "revoked": "2026-02-14T06:02:32.320Z"
+    },
+    {
+      "kid": "enc-2026-02-2",
+      "use": "enc",
+      "alg": "X25519",
+      "publicKey": "824amFtXh683DRjUnIZgRrkxoPGYSKwdUNwtuhdM5lY",
+      "fingerprint": "sha256:428e61d474e4500e07016d2608e4d5faf9cbed89292cdedd2ed366ec4824170a",
+      "status": "revoked",
+      "created": "2026-02-14T06:02:27.529Z",
+      "revoked": "2026-02-14T06:02:32.320Z"
+    },
+    {
+      "kid": "sig-2026-02-3",
+      "use": "sig",
+      "alg": "Ed25519",
+      "publicKey": "Y6NrIsC8v1zuXZaThT5DhNyF01pwLHAajTtZOgLBb8U",
+      "fingerprint": "sha256:c212d6ad8122c04f2f5a7056c3de9f03cd55e722b256415ea55872ecee307b39",
+      "status": "active",
+      "created": "2026-02-14T06:02:32.330Z"
+    },
+    {
+      "kid": "enc-2026-02-3",
+      "use": "enc",
+      "alg": "X25519",
+      "publicKey": "FO5iLje9nw-Zv9MJbpUSzOhxG3MBILf2Ff3dm3uJ_zQ",
+      "fingerprint": "sha256:36cad3a3b112cfc9381064157680374ee9f23586117bf072723ebe70456ce38c",
+      "status": "active",
+      "created": "2026-02-14T06:02:32.330Z"
+    }
+  ]
+}
