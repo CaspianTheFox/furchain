@@ -1,0 +1,24 @@
+{
+  "$schema": "https://furchainlabs.github.io/protocol/v1/publication.schema.json",
+  "id": "019c5acc-2ea1-702b-a10d-ccf18fe8a5be",
+  "character": "@019c5ab6-1002-709d-97e1-4bf9a23249ee",
+  "type": "post",
+  "rating": "safe",
+  "scopes": [
+    "public"
+  ],
+  "created": "2026-02-14T06:17:36.673Z",
+  "body": {
+    "title": "Sync Test 2",
+    "tags": [],
+    "content": {
+      "body": "Another test"
+    }
+  },
+  "signature": {
+    "alg": "Ed25519",
+    "kid": "sig-2026-02-3",
+    "created": "2026-02-14T06:17:36.675Z",
+    "sig": "cL7TwFmhQKaVL1F0vZSsQO7isZ2d2LVQwLt55JRuGx_RwTtj8HY3aPoiJf_MINoGsYqnt6VildP9LsKEJtxEDQ"
+  }
+}
