@@ -1,0 +1,24 @@
+{
+  "$schema": "https://furchainlabs.github.io/protocol/v1/publication.schema.json",
+  "id": "019c5aca-ffb1-74aa-9003-2b05725b1078",
+  "character": "@019c5ab6-1002-709d-97e1-4bf9a23249ee",
+  "type": "post",
+  "rating": "safe",
+  "scopes": [
+    "public"
+  ],
+  "created": "2026-02-14T06:16:19.121Z",
+  "body": {
+    "title": "After Sync",
+    "tags": [],
+    "content": {
+      "body": "Testing sync push"
+    }
+  },
+  "signature": {
+    "alg": "Ed25519",
+    "kid": "sig-2026-02-3",
+    "created": "2026-02-14T06:16:19.122Z",
+    "sig": "J2l6vLBVv5rYZc-Qk54Snq05lOWwmEhrOPaek4QL2AyrFjn0Mi-Uyj1Hc7J9KjxFYNLiNsUZQNF8Mwh20ubHBg"
+  }
+}

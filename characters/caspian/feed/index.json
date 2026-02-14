@@ -1,10 +1,32 @@
 {
   "character": "@019c5ab6-1002-709d-97e1-4bf9a23249ee",
-  "count": 4,
-  "latest": "2026-02-14T05:59:38.494Z",
+  "count": 5,
+  "latest": "2026-02-14T06:16:19.121Z",
   "pageSize": 100,
   "archives": [],
   "publications": [
+    {
+      "id": "019c5aca-ffb1-74aa-9003-2b05725b1078",
+      "type": "post",
+      "rating": "safe",
+      "scopes": [
+        "public"
+      ],
+      "created": "2026-02-14T06:16:19.121Z",
+      "body": {
+        "title": "After Sync",
+        "tags": [],
+        "content": {
+          "body": "Testing sync push"
+        }
+      },
+      "signature": {
+        "alg": "Ed25519",
+        "kid": "sig-2026-02-3",
+        "created": "2026-02-14T06:16:19.122Z",
+        "sig": "J2l6vLBVv5rYZc-Qk54Snq05lOWwmEhrOPaek4QL2AyrFjn0Mi-Uyj1Hc7J9KjxFYNLiNsUZQNF8Mwh20ubHBg"
+      }
+    },
     {
       "id": "019c5abb-bafe-73e9-baa4-6c6216159eac",
       "type": "reply",
